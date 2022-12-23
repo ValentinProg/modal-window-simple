@@ -1,0 +1,23 @@
+.header {
+    height: 10vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.727);
+}
+
+.header button {
+    position: absolute;
+    right: 30px;
+    background-color: rgba(255, 255, 255, 0.727);
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.header button:hover {
+    background-color: white;
+}

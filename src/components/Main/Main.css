@@ -1,0 +1,9 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color:dimgray;
+    color: rgba(255, 255, 255, 0.727);
+    font-size: 50px;
+}
